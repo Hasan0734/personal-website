@@ -1,0 +1,78 @@
+body{
+    font-family: -webkit-pictograph;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #fd2f7b;
+    font-size: 60px;
+    font-weight: 900;
+    margin-top: 0;
+    letter-spacing: 3.5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 40px;
+   
+}
+.top-items{
+   
+    padding: 50px;
+    width: 85%;
+    margin-left: 180px;
+}
+
+.half-width{
+     height: 600px;
+    float: left;
+    padding: 1%;
+    width: 40%;
+    margin-top: 190px;
+    margin-left: 4%;
+}
+
+
+.half-width img{
+    width: 75%;
+}
+section{
+    height: 1000px;
+}
+.top-section{
+   
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.top-content{
+    width: 510px;
+    margin-top: 200px;
+    margin-left: 378px;
+}
+.button{
+    background-image: linear-gradient(45deg, #ff6ec3f7, #e22f5a);
+    background-color: purple;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 19px;
+    text-decoration: none;
+}
+p{
+    margin-bottom: 25px;
+    font-size: 16px;
+}
+.biography-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bio-content{
+    margin-top: 360px;
+}
+.work-area{
+    height: 450px; 
+}
+.work-area img{
+    width: 100%;
+}
