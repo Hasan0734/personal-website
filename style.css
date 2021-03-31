@@ -72,7 +72,53 @@ p{
 }
 .work-area{
     height: 450px; 
+    margin-left: 220px;
+    margin-top: 120px;
 }
 .work-area img{
     width: 100%;
+    
+}
+.experience{
+    text-align: center;
+    font-size: 50px;
+    font-family:  sans-serif;
+    font-weight: 700;
+}
+.latest-work{
+    width: 25%;
+    float: left;
+    padding: 15px;
+    margin: 10px;
+}
+.work-section{
+    
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.footer-section{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+}
+.footer-content{
+    margin-top: 300px;
+}
+.footer-content p{
+    margin-top: 40px;
+    font-size: 20px;
+    margin-bottom: 150px;
+}
+.client-name h4{
+    margin: 0;
+}
+.massage-box{
+    color: white;
+    margin: auto;
+    padding: 15px 25px;
+    width: 457px;
+    background-image: linear-gradient(45deg, #f544bb, #ff0061);
+    border-radius: 5px;
+}
+footer{
+    text-align:center ;
 }
