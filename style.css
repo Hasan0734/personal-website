@@ -111,14 +111,18 @@ p{
 .client-name h4{
     margin: 0;
 }
-.massage-box{
+.message-box{
     color: white;
     margin: auto;
-    padding: 15px 25px;
-    width: 457px;
-    background-image: linear-gradient(45deg, #f544bb, #ff0061);
-    border-radius: 5px;
+    padding: 30px;
+    width: 500px;
+    background-image: linear-gradient(45deg, #e22ba6c4, #fb307d);
+    border-radius: 7px;
+}
+.message-box h3{
+    font-size: 25px;
+    margin-top: 15px;
 }
 footer{
-    text-align:center ;
+    text-align: center ;
 }
